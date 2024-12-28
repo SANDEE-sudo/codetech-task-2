@@ -1,1 +1,1 @@
-# codetech-task-2
+Hi this is p.sandeep pursuing B tech graduation from ACHARYA NAGARJUNA UNIVERSITY COLLEGE OF ENGENEERING AND TECHNOLOGY in cyber security department. this  is vulnerability scanner tool that scans a network or a website domain  for common security vulnerabilities such as open ports,oudated software versions and misconfigurations.![IDLE Shell 3 13 1 12_26_2024 3_47_31 PM](https://github.com/user-attachments/assets/30199404-0625-475c-bf3a-707c2467ccd5)
